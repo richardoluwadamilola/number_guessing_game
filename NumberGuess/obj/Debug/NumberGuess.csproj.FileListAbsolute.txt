@@ -1,0 +1,8 @@
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\obj\Debug\NumberGuess.csproj.AssemblyReference.cache
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\obj\Debug\NumberGuess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\obj\Debug\NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\Dammie\Documents\number_guessing_game\NumberGuess\obj\Debug\NumberGuess.pdb
