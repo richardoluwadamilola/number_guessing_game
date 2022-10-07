@@ -16,15 +16,11 @@ namespace NumberGuess
 
             while (true)
             {
-
-                // Init correct number
-                //int correctNumber = 7;
-
                 // Create a new Random object
                 Random random = new Random();
 
                 // Init correct number
-                int correctNumber = random.Next(1, 10);
+                int correctNumber = random.Next(1, 11);
 
                 // Init guess var
                 int guess = 0;
@@ -78,7 +74,7 @@ namespace NumberGuess
                 }
                 else
                 {
-                    return;
+                    Console.WriteLine("Thanks for playing");
                 }
             }
 
